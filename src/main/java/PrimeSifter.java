@@ -5,6 +5,7 @@ public class PrimeSifter {
 
   public List<Object> runSift(int countUpTo){
     List<Object> result = new ArrayList<Object>();
+    result.add(1);
     return result;
 
   }
